@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/frame_recycler"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    tools:context=".fragments.FragmentSkill">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imageViewFarament"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            app:srcCompat="@drawable/ic_passing"
+            />
+
+        <TextView
+            android:id="@+id/textViewFrame"
+            android:layout_width="match_parent"
+            android:textSize="24sp"
+            android:layout_margin="10dp"
+            android:textColor="@android:color/holo_blue_dark"
+            android:layout_gravity="center"
+            android:text="Passing Basics"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textSize="18sp"
+        android:text="ramdom text"
+        android:gravity="left"
+        android:textColor="@android:color/darker_gray"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        />
+    <Button
+        android:id="@+id/buttonPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="TUTORIAL"
+        android:textColor="@android:color/black"
+        />
+
+
+
+</LinearLayout>

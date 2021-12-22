@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fragmentHome"
+        android:icon="@drawable/ic_baseline_home"
+        android:title="Home"
+        app:showAsAction="always" />
+
+
+
+    <item
+        android:id="@+id/fragmentSearch"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Sea"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/fragmentNotification"
+        android:icon="@drawable/ic_baseline_circle_notifications_24"
+        android:title="Notifi"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/fragmentAccounts"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="acc"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/fragmentAdd"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:title="Add"
+        app:showAsAction="always" />
+</menu>

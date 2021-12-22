@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/basic"
+        android:title="Easy"
+        android:icon="@drawable/ic_kid"
+        app:showAsAction="always"
+
+        />
+
+    <item
+        android:id="@+id/medium"
+        android:title="Medium"
+        android:icon="@drawable/ic_modreat"
+        app:showAsAction="always"
+
+        />
+    <item
+        android:id="@+id/hard"
+        android:title="Hard"
+        android:icon="@drawable/ic_superman"
+        app:showAsAction="always"
+
+        />
+
+
+</menu>

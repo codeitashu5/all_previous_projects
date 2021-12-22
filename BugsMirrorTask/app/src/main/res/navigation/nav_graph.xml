@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentPermissions">
+
+    <fragment
+        android:id="@+id/fragmentList"
+        android:name="com.example.bugsmirrortask.fragments.FragmentList"
+        android:label="fragment_list"
+        tools:layout="@layout/fragment_list" >
+        <argument
+            android:name="element"
+            app:argType="string"
+            android:defaultValue='"non"' />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentPermissions"
+        android:name="com.example.bugsmirrortask.fragments.FragmentPermissions"
+        android:label="fragment_permissions"
+        tools:layout="@layout/fragment_permissions" >
+        <action
+            android:id="@+id/action_fragmentPermissions_to_fragmentList"
+            app:destination="@id/fragmentList" />
+    </fragment>
+</navigation>
