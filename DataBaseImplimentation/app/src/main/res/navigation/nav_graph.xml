@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/personListFragment">
+
+    <fragment
+        android:id="@+id/fragmentEntry"
+        android:name="com.example.databaseimplimentation.fragment.FragmentEntry"
+        android:label="FragmentEntry" >
+        <action
+            android:id="@+id/action_fragmentEntry_to_personListFragment"
+            app:destination="@id/personListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personListFragment"
+        android:name="com.example.databaseimplimentation.fragment.PersonListFragment"
+        android:label="PersonListFragment" />
+</navigation>

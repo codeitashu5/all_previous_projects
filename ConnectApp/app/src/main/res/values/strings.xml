@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Connect App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ipsum">Benj Edwards is an Associate Editor for How-To Geek. For over 15 years,
+        he has written about technology and tech history for sites such as The Atlantic, Fast Company,
+        PCMag, PCWorld, Macworld, Ars Technica, and Wired. In 2005, he created Vintage Computing and Gaming,
+        a blog devoted to tech history. He also created The Culture of Tech podcast and regularly contributes to the
+        Retronauts retrogaming podcast</string>
+
+    <string name="Sign_in">
+        SIGN IN
+        _______
+    </string>
+
+</resources>

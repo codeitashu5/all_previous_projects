@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/button_frame.xml" value="0.290625" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/defult_mode.xml" value="0.290625" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/ic_background.xml" value="0.290625" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.290625" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/ic_connectup_01.xml" value="0.290625" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/ic_group_59733.xml" value="0.290625" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/ic_info__1_.xml" value="0.24537037037037038" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.290625" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/input_bg.xml" value="0.28615384615384615" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/selected_mode.xml" value="0.290625" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/drawable/selector_walk_through.xml" value="0.290625" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/font/mondial.xml" value="0.3046875" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/activity_front.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/activity_supply.xml" value="0.1" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_chat.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_first.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_regester.xml" value="0.4709562109025916" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_search.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_second.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/fragment_zero.xml" value="0.14375" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/layout/recycler_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidTest/ConnectApp/app/src/main/res/menu/bottom_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

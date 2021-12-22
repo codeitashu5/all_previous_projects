@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fragmentOne"
+        android:title="one"
+        android:icon="@drawable/ic_baseline_hourglass_full_24"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/fragmentTwo"
+        android:title="two"
+        android:icon="@drawable/ic_baseline_hub_24"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/fragmentThree"
+        android:title="three"
+        android:icon="@drawable/ic_baseline_house_24"
+        app:showAsAction="always"
+        />
+
+
+</menu>
